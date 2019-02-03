@@ -1,0 +1,4 @@
+module CNIODarwin {
+    umbrella "/Users/manish/Documents/Server_Side_Swift_with_Vapor_v1.0.1/19-basic-authentication-part2/starter/TILApp/.build/checkouts/swift-nio.git--5450609873323902819/Sources/CNIODarwin/include"
+    export *
+}

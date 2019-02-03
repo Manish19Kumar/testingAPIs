@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/manish/Documents/Server_Side_Swift_with_Vapor_v1.0.1/19-basic-authentication-part2/starter/TILApp/.build/checkouts/swift-nio-ssl.git-7310589842359822540/Sources/CNIOOpenSSL/include"
+    export *
+}
